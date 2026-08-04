@@ -459,3 +459,4 @@ When `make` is 'happy' and all green, you are ready to push your work to GitHub!
 Shortly after your push is completed, [GitHub will tell Kitt](https://sebastien.saunier.me/blog/2014/04/21/practical-example-of-using-git-in-a-school.html) about this push thanks to a [webhook](https://developer.github.com/webhooks/).
 
 Kitt will then pull your code, run `make` and update your challenge status (completion + style score). You should also see how your buddy of the day is doing!
+
