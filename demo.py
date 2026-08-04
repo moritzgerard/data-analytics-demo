@@ -3,4 +3,4 @@
 
 def hello_world():
     """Returns the string 'Hello World!'"""
-    pass  # YOUR CODE HERE
+    return "Hello World!"
